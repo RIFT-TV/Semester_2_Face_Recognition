@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Semester_2_Facial_recognition(2)\Facial_recognitionGUI\obj\Debug\net9.0-windows\Facial_recognitionGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Semester_2_Facial_recognition(2)\Facial_recognitionGUI\obj\Debug\net9.0-windows\Facial_recognitionGUI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Semester_2_Facial_recognition(2)\Facial_recognitionGUI\obj\Debug\net9.0-windows\Facial_recognitionGUI.AssemblyInfo.cs
+C:\Users\user\Desktop\Semester_2_Facial_recognition(2)\Facial_recognitionGUI\obj\Debug\net9.0-windows\Facial_recognitionGUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Semester_2_Facial_recognition(2)\Facial_recognitionGUI\bin\Debug\net9.0-windows\Facial_recognitionGUI.exe
+C:\Users\user\Desktop\Semester_2_Facial_recognition(2)\Facial_recognitionGUI\bin\Debug\net9.0-windows\Facial_recognitionGUI.deps.json
+C:\Users\user\Desktop\Semester_2_Facial_recognition(2)\Facial_recognitionGUI\bin\Debug\net9.0-windows\Facial_recognitionGUI.runtimeconfig.json
+C:\Users\user\Desktop\Semester_2_Facial_recognition(2)\Facial_recognitionGUI\bin\Debug\net9.0-windows\Facial_recognitionGUI.dll
+C:\Users\user\Desktop\Semester_2_Facial_recognition(2)\Facial_recognitionGUI\bin\Debug\net9.0-windows\Facial_recognitionGUI.pdb
+C:\Users\user\Desktop\Semester_2_Facial_recognition(2)\Facial_recognitionGUI\obj\Debug\net9.0-windows\Facial_recognitionGUI.dll
+C:\Users\user\Desktop\Semester_2_Facial_recognition(2)\Facial_recognitionGUI\obj\Debug\net9.0-windows\refint\Facial_recognitionGUI.dll
+C:\Users\user\Desktop\Semester_2_Facial_recognition(2)\Facial_recognitionGUI\obj\Debug\net9.0-windows\Facial_recognitionGUI.pdb
+C:\Users\user\Desktop\Semester_2_Facial_recognition(2)\Facial_recognitionGUI\obj\Debug\net9.0-windows\Facial_recognitionGUI.genruntimeconfig.cache
+C:\Users\user\Desktop\Semester_2_Facial_recognition(2)\Facial_recognitionGUI\obj\Debug\net9.0-windows\ref\Facial_recognitionGUI.dll
