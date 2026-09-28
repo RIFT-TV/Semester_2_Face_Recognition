@@ -33,7 +33,6 @@ private void btnEyeConfirm_Click(object sender, EventArgs e)
 
 private void Button35_Click(object sender, EventArgs e)
 {
-    
 }
 
 }
